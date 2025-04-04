@@ -79,6 +79,8 @@ names:
   # Add all your classes
 ```
 
+> You can fork my dataset for reference using the provided link: [LINK](https://universe.roboflow.com/industrial-university-of-ho-chi-minh-city-inppl/football-players-detection-3zvbc-awjwy/dataset/1)
+
 ## Training
 
 **Please you see more in my 2 notebooks. I use CLI in `train_yolo11_with_custom_data_cli_google_colab.ipynb` and Python code in `train-yolo11-with-custom-data-python_kaggle.ipynb`**
