@@ -81,6 +81,8 @@ names:
 
 > You can fork my dataset for reference using the provided link: [LINK](https://universe.roboflow.com/industrial-university-of-ho-chi-minh-city-inppl/football-players-detection-3zvbc-awjwy/dataset/1)
 
+<p align="center"><img src="./forking_dataset.png" width="600"></p>
+
 ## Training
 
 **Please you see more in my 2 notebooks. I use CLI in `train_yolo11_with_custom_data_cli_google_colab.ipynb` and Python code in `train-yolo11-with-custom-data-python_kaggle.ipynb`**
@@ -89,20 +91,20 @@ names:
 
 ### **Original model:**
 
-image:
+- image:
 
 <p align="center"><img src="./results/images/test1.jpg" width="600"></p>
 
-video:
+- video:
 
 <p align="center"><img src="./results/videos/output_video.gif" width="800"></p>
 
 ### **Trained model:**
 
-image:
+- image:
 
 <p align="center"><img src="./results/images/test2.jpg" width="600"></p>
 
-video:
+- video:
 
 <p align="center"><img src="./results/videos/output_video1.gif" width="800"></p>
