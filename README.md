@@ -93,7 +93,7 @@ image:
 
 video:
 
-<p align="center"><img src="./results/video/output_video.gif" width="800"></p>
+<p align="center"><img src="./results/videos/output_video.gif" width="800"></p>
 
 ### **Trained model:**
 
@@ -103,4 +103,4 @@ image:
 
 video:
 
-<p align="center"><img src="./results/video/output_video1.gif" width="800"></p>
+<p align="center"><img src="./results/videos/output_video1.gif" width="800"></p>
