@@ -1,5 +1,27 @@
 # Training YOLOv11 with Custom Data
 
+## Results:
+
+### **Original model:**
+
+- image:
+
+<p align="center"><img src="./results/images/test1.jpg" width="600"></p>
+
+- video:
+
+<p align="center"><img src="./results/videos/output_video.gif" width="800"></p>
+
+### **Trained model:**
+
+- image:
+
+<p align="center"><img src="./results/images/test2.jpg" width="600"></p>
+
+- video:
+
+<p align="center"><img src="./results/videos/output_video1.gif" width="800"></p>
+
 ## Overview
 This README provides comprehensive instructions for training YOLOv11 on custom datasets. YOLOv11 builds upon previous YOLO architectures with improved accuracy and speed, making it ideal for both real-time and high-precision object detection tasks.
 
@@ -87,24 +109,4 @@ names:
 
 **Please you see more in my 2 notebooks. I use CLI in `train_yolo11_with_custom_data_cli_google_colab.ipynb` and Python code in `train-yolo11-with-custom-data-python_kaggle.ipynb`**
 
-## Results:
-
-### **Original model:**
-
-- image:
-
-<p align="center"><img src="./results/images/test1.jpg" width="600"></p>
-
-- video:
-
-<p align="center"><img src="./results/videos/output_video.gif" width="800"></p>
-
-### **Trained model:**
-
-- image:
-
-<p align="center"><img src="./results/images/test2.jpg" width="600"></p>
-
-- video:
-
-<p align="center"><img src="./results/videos/output_video1.gif" width="800"></p>
+You can see more: [https://docs.ultralytics.com/models/yolo11/](https://docs.ultralytics.com/models/yolo11/)
